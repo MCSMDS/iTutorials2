@@ -1,0 +1,67 @@
+---
+layout: default
+---
+# 域名
+
+<div id="mb-3">
+<img src="domain.svg?v={{ "now" | date: "%s" }}" class="img-fluid" alt="Responsive image">
+</div>
+
+顶级域名: net / org / com / cn 
+
+二级域名: example.org / example.com / com.cn
+
+三级域名: www.example.com / example.com.cn
+
+四级域名: www.example.com.cn
+
+子域名: www.example.com 是 example.com 的子域名 / example.com 是 com 的子域名
+
+父域名: www.example.com 的父域名是 example.com / example.com 的父域名是 com
+
+## 域名注册商
+
+- [阿里云(推荐)](//wanwang.aliyun.com)
+- [Godaddy(推荐)](//www.godaddy.com)
+- [Freenom(免费)](//www.freenom.com)
+- [腾讯云](//dnspod.cloud.tencent.com)
+- [name](//www.name.com)
+- [G Suite](//gsuite.google.com)
+
+## 域名解析器
+
+- [cloudflare(推荐)](//www.cloudflare.com)
+- [笨牛网](//cdn.bnxb.com)
+- [dnspod](//www.dnspod.cn)
+
+<table class="table table-bordered">
+<thead>
+
+<tr>
+<th scope="col">记录类型</th>
+<th scope="col">名称</th>
+<th scope="col">值</th>
+</tr>
+
+</thead>
+<tbody>
+
+<tr>
+<th scope="row">A</th>
+<td>@</td>
+<td>IP 地址</td>
+</tr>
+
+<tr>
+<th scope="row">A</th>
+<td>WWW</td>
+<td>IP 地址</td>
+</tr>
+
+</tbody>
+</table>
+
+
+## 节点选择
+
+## 域名备案
