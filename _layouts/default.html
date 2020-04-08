@@ -67,7 +67,7 @@
         const swVersion = await wb.messageSW({type: "GET_VERSION"});
         $("#version").text("服务人员状态: "+swVersion);
       }
-      
+
       if ("serviceWorker" in navigator) {
         runSW();
       } else {
