@@ -61,7 +61,7 @@
 
       async function runSW()
       {
-        const {Workbox} = await import('/workbox/workbox-window.mjs?v={{ "now" | date: "%s" }}');
+        const {Workbox} = await import("/workbox/workbox-window.mjs?v={{ "now" | date: "%s" }}");
         const wb = new Workbox("/sw.js?v={{ "now" | date: "%s" }}");
         wb.register();
         const swVersion = await wb.messageSW({type: "GET_VERSION"});
