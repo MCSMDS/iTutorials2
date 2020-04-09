@@ -16,7 +16,7 @@ layout: default
 4. 敲回车
 5. 在cmd中输入start nginx.exe
 6. 敲回车。
-7. 最后[进入你的网站](http://localhost)
+7. 最后进入[你的网站](http://localhost)
 
 ### 获取外网IP
 
