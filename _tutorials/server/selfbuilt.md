@@ -12,7 +12,7 @@ layout: default
 
 1. 解压下载的zip文件
 2. 进入含nginx.exe文件的页面
-3. 在地址栏中输入cmd
+3. 在地址栏中输入```cmd```
 4. 敲回车
 5. 在cmd中输入start nginx.exe
 6. 敲回车。
