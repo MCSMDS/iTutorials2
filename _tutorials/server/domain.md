@@ -73,7 +73,4 @@ layout: default
 4. 敲回车
 5. 啟動谷歌瀏覽器
 6. 进入 chrome://net-internals/#dns
-7. 按 Clear host cache.
-8. 进入 chrome://net-internals/#sockets
-9. 按 Close idle sockets
-10. 再按 Flush socket pools
+7. 按 Clear host cache
