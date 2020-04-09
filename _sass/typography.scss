@@ -6,10 +6,19 @@ a {
   color: rgba(255, 255, 255, .53);
 }
 
-div.highlight, blockquote {
+code {
+  color: #d44950;
+  background-color: #f7f7f9;
+}
+
+blockquote, div.highlight {
   background-color: #f8f9fa;
-  padding: 1rem 1rem 0;
+  padding: 1rem;
   margin-bottom: 1rem;
+
+  p, pre {
+    margin-bottom: 0;
+  }
 }
 
 /*
