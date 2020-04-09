@@ -7,17 +7,17 @@ layout: default
 <img src="domain.svg?v={{ "now" | date: "%s" }}" class="img-fluid" alt="Responsive image">
 </div>
 
-顶级域名: net / org / com / cn 
+顶级域名: com
 
-二级域名: example.org / example.com / com.cn
+二级域名: example.com
 
-三级域名: www.example.com / example.com.cn
+三级域名: www.example.com
 
-四级域名: www.example.com.cn
+子域名: www.example.com 是 example.com 的子域名
 
-子域名: www.example.com 是 example.com 的子域名 / example.com 是 com 的子域名
+父域名: example.com 是 www.example.com 的父域名
 
-父域名: www.example.com 的父域名是 example.com / example.com 的父域名是 com
+> 域名建议...
 
 ## 域名注册商
 
@@ -67,9 +67,9 @@ layout: default
 
 ## 删除域名解析缓存
 
-1. 在地址栏中输入cmd
+1. 在地址栏中输入```cmd```
 2. 敲回车
-3. 在cmd中输入ipconfig /flushdns
+3. 在cmd中输入```ipconfig /flushdns```
 4. 敲回车
 5. 啟動谷歌瀏覽器
 6. 进入 chrome://net-internals/#dns
