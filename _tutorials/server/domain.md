@@ -72,8 +72,8 @@ layout: default
 3. 在cmd中输入ipconfig /flushdns
 4. 敲回车
 5. 啟動谷歌瀏覽器
-6. 进入[谷歌内部DNS工具](chrome://net-internals/#dns)
+6. 进入 chrome://net-internals/#dns
 7. 按 Clear host cache.
-8. 进入[谷歌内部Sockets工具](chrome://net-internals/#sockets)
+8. 进入 chrome://net-internals/#sockets
 9. 按 Close idle sockets
 10. 再按 Flush socket pools
