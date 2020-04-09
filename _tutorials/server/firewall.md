@@ -24,8 +24,4 @@ function helloWorld(param1, param2) {
 }
 ```
 
-```
-{% seo %}
-```
-
 

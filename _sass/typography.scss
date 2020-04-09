@@ -6,6 +6,16 @@ a {
   color: rgba(255, 255, 255, .53);
 }
 
+
+highlighter-rouge {
+  background-color: #f8f9fa;
+  padding: 1.5rem;
+}
+
+pre.highlight {
+  margin-bottom: 0;
+}
+
 /*
 .article>h3
 {
