@@ -7,5 +7,5 @@ layout: default
 
 
 ``` html
-<p>hallo, world!</p>
+<p>Hello, World!</p>
 ```
