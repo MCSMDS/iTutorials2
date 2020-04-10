@@ -24,13 +24,13 @@ layout: default
 # 服务器系统
 
 - [CentOS(推荐)](//www.centos.org)
-- [Window Server](//www.microsoft.com/zh-cn/cloud-platform/windows-server)
 - [Ubuntu](//ubuntu.com)
 - [Linux](//www.linux.org)
 - [Debian](//www.debian.org)
 - [SUSE](//www.suse.com)
 - [CoreOS](//coreos.com)
 - [FreeBSD](//www.freebsd.org)
+- [Window Server](//www.microsoft.com/zh-cn/cloud-platform/windows-server)
 
 <pre class="mb-0">
 <table class="table table-bordered mb-0">
@@ -54,3 +54,19 @@ layout: default
 </tbody>
 </table>
 </pre>
+
+# SSH
+
+SSH 是一種安全加密傳輸協定，絕大部分的 Linux 伺服器都會提供 SSH 的連線服務，讓使用者或管理者遠端連線進來，透過 Linux 的 shell 來處理各種工作或系統管理。
+
+# 服务器面板
+
+- [宝塔(推荐)](//bt.cn)
+- [appnode](//appnode.com)
+- [云帮手](//cloudx.cn)
+
+# FTP
+
+FTP 軟體，可幫助您上傳您的網頁或程式檔案至我們的虛擬主機上。
+
+- [filezilla](//filezilla-project.org)
