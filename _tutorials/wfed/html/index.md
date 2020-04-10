@@ -6,8 +6,10 @@ layout: default
 超文本标记语言(HyperText Markup Language)简称HTML。它是一种标记语言，定义了网页内容的含义和结构。HTML 由一系列的元素组成，这些元素是由一个或者两个标签组成，可以用来包围不同部分的内容，使其定义一段文字或者一张图片，将文字设置为斜体，改变字号，等等。 
 
 
+
 ## 嵌套元素
 
+<p>Hello, World!</p>
 ``` html
 <p>Hello, World!</p>
 ```
@@ -24,10 +26,13 @@ layout: default
 
 > 这个元素定义了一个段落。
 
+
+
 ## 空元素
 
 不包含任何内容的元素称为空元素。比如 <hr> 元素：
 
+<hr>
 ``` html
 <hr>
 ```
@@ -38,11 +43,13 @@ layout: default
 
 > 这个元素定义了一个分割线。
 
+
+
 ## 元素属性
 
 属性提供有关元素的其他信息，所有HTML元素都可以具有属性。
 
-
+<a href="https://www.example.com"></a>
 ``` html
 <a href="https://www.example.com"></a>
 ```
@@ -52,6 +59,8 @@ layout: default
 元素: 整个元素只由一个标签组成，没有```</hr>```结束标签，元素里也没有内容。
 
 > 这个元素定义了一个超链接，并且地址是https://www.example.com。
+
+
 
 ## 基础格式
 
