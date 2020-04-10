@@ -13,12 +13,22 @@ p code,li code {
   border-radius: 4px;
 }
 
-blockquote, div.highlight {
+blockquote {
   background-color: #f8f9fa;
   padding: 1rem;
   margin-bottom: 1rem;
 
-  p, pre {
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.highlight pre {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  margin-bottom: 1rem;
+
+  code {
     margin-bottom: 0;
   }
 }
