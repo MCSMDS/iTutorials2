@@ -14,7 +14,7 @@
   </head>
   <body class="d-flex flex-column h-100" style="padding-top:56px{% if page.bgd %}; background:#f4f4f4;{% endif %}">
 
-    <header class="fixed-top">
+    <header class="fixed-top d-print-none">
       <nav class="navbar navbar-expand-md navbar-dark bg-dark shadow">
 
         <a class="navbar-brand" href="/">
@@ -49,7 +49,7 @@
       </div>
     </main>
 
-    <footer class="{% if page.url != "/404.html" %}mt-auto {% endif %}shadow-sm bg-light py-3">
+    <footer class="{% if page.url != "/404.html" %}mt-auto {% endif %}shadow-sm bg-light py-3 d-print-none">
       <div class="container-md">
         <span class="font-weight-light">Copyright MCSMDS All Right Reserved</span>
       </div>
