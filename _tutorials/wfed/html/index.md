@@ -24,13 +24,16 @@ layout: default
 
 不包含任何内容的元素称为空元素。比如 <img> 元素：
 
-<img src="images/firefox-icon.png" alt="测试图片">
-本元素包含两个属性，但是并没有 </img> 结束标签，元素里也没有内容。这是因为图像元素不需要通过内容来产生效果，它的作用是向其所在的位置嵌入一个图像。
+``` html
+<hr>
+```
+本元素包含两个属性，但是并没有 </hr> 结束标签，元素里也没有内容。这是因为图像元素不需要通过内容来产生效果，它的作用是向其所在的位置嵌入一个图像。
 
 ## 基础格式
 
 以上介绍了一些基本的 HTML 元素，现在来看看单个元素如何彼此协同构成一个完整的 HTML 页面。创建的 index.html 示例：
 
+``` html
 <!DOCTYPE html>
 <html>
   <head>
@@ -38,10 +41,11 @@ layout: default
     <title>测试页面</title>
   </head>
   <body>
-    <img src="images/firefox-icon.png" alt="测试图片">
+    <p>Hello, World!</p>
   </body>
 </html>
 这里有：
+```
 
 <!DOCTYPE html> — 文档类型。混沌初分，HTML 尚在襁褓（大约是 1991/92 年），DOCTYPE 用来链接一些 HTML 编写守则，有点像自动校正等。然而现在已经没有人关心这些，只是因为历史原因必须将它们保留，但没有实际作用。现在你只需要知道这些就可以。
 <html></html> — <html> 元素。这个元素包含了整个页面的内容，有时也被称作根元素。
