@@ -4,7 +4,7 @@ bgd: true
 ---
 # Web 前端开发
 
-<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+<div class="mt-3 row row-cols-1 row-cols-sm-2 row-cols-md-3" style="background:#f4f4f4">
 
 {% include card.html url="/wfed/html/" img="/wfed/index" title="HTML 网页结构" %}
 
