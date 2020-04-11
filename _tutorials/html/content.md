@@ -66,3 +66,15 @@ layout: default
   <li>third item</li>
 </ul>	
 ```
+
+
+## 图片
+
+<picture>
+<source type="image/webp" srcset="/html/index.webp?v={{ "now" | date: "%s" }}">
+<source type="image/jpeg" srcset="/html/index.jpg?v={{ "now" | date: "%s" }}">
+<img src="/html/index.jpg?v={{ "now" | date: "%s" }}" class="img-fluid" alt="example">
+</picture>
+``` html
+<img src="/html/index.webp">
+```
