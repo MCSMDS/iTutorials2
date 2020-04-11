@@ -73,8 +73,10 @@ layout: default
 <picture>
 <source type="image/webp" srcset="/html/index.webp?v={{ "now" | date: "%s" }}">
 <source type="image/jpeg" srcset="/html/index.jpg?v={{ "now" | date: "%s" }}">
-<img src="/html/index.jpg?v={{ "now" | date: "%s" }}" class="img-fluid" alt="example">
+<img src="/html/index.jpg?v={{ "now" | date: "%s" }}" class="img-fluid mb-3" alt="example">
 </picture>
 ``` html
-<img src="/html/index.webp">
+<img src="...">
 ```
+
+## 表格
