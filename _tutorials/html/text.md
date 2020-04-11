@@ -5,58 +5,58 @@ layout: default
 
 ## 段落
 
-<p>Hello, World!</p>
+<p>我是段落。</p>
 ``` html
-<p>Hello, World!</p>
+<p>我是段落。</p>
 ```
 
 
 
 ## 粗体
 
-<p><b>Hello, World!</b></p>
-<p><strong>Hello, World!</strong></p>
+<p><b>我是粗体。</b></p>
+<p><strong>我是粗体，代表加重语气。</strong></p>
 ``` html
-<p><b>Hello, World!</b>
-<p><strong>Hello, World!</strong></p>
+<p><b>我是粗体。</b></p>
+<p><strong>我是粗体，代表加重语气。</strong></p>
 ```
 
 
 
 ## 斜体
 
-<p><i>Hello, World!</i></p>
-<p><em>Hello, World!</em></p>
+<p><i>我是斜体。</i></p>
+<p><em>我是斜体，代表着重。</em></p>
 ``` html
-<p><i>Hello, World!</i></p>
-<p><em>Hello, World!</em></p>
+<p><i>我是斜体。</i></p>
+<p><em>我是斜体，代表着重。</em></p>
 ```
 
 
 
-## 删除线
+## 删除字
 
-<p><del>Hello, World!</del></p>
+<p><del>我是删除字。</del></p>
 ``` html
-<p><del>Hello, World!</del></p>
+<p><del>我是删除字。</del></p>
 ```
 
 
 
-## 下划线
+## 插入字
 
-<p><ins>Hello, World!</ins></p>
+<p><ins>我是插入字。</ins></p>
 ``` html
-<p><ins>Hello, World!</ins></p>
+<p><ins>我是插入字。</ins></p>
 ```
 
 
 
-## 小文字
+## 小号字
 
-<p><small>Hello, World!</small></p>
+<p><small>我是小号字。</small></p>
 ``` html
-<p><small>Hello, World!</small></p>
+<p><small>我是小号字。</small></p>
 ```
 
 
@@ -71,11 +71,7 @@ layout: default
 
 
 ## 上下标
-<p>Hello, World!</p>
-<p><sub>Hello, World!</sub></p>
-<p><sup>Hello, World!</sup></p>
+<p>这是<sub>上</sub>中<sup>下</sup>。</p>
 ``` html
-<p>Hello, World!</p>
-<p><sub>Hello, World!</sub></p>
-<p><sup>Hello, World!</sup></p>
+<p>这是<sub>上</sub>中<sup>下</sup>。</p>
 ```
