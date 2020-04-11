@@ -15,10 +15,10 @@ layout: default
 ## 粗体
 
 <p>我是<b>粗体。</b></p>
-<p>我是<strong>粗体</strong>，还有语气<strong>重的意思</strong>。</p>
+<p>我是<strong>粗体</strong>，还有语气<strong>重</strong>的意思。</p>
 ``` html
 <p>我是<b>粗体。</b></p>
-<p>我是<strong>粗体</strong>，还有语气<strong>重的意思</strong>。</p>
+<p>我是<strong>粗体</strong>，还有语气<strong>重</strong>的意思。</p>
 ```
 
 
@@ -26,10 +26,10 @@ layout: default
 ## 斜体
 
 <p>我是<i>斜体</i>。</p>
-<p>我是<em>斜体</em>，还有语气<em>重的意思</em>。</p>
+<p>我是<em>斜体</em>，还有语气<em>重</em>的意思。</p>
 ``` html
 <p>我是<i>斜体</i>。</p>
-<p>我是<em>斜体</em>，还有语气<em>重的意思</em>。</p>
+<p>我是<em>斜体</em>，还有语气<em>重</em>的意思。</p>
 ```
 
 
@@ -63,9 +63,9 @@ layout: default
 
 ## 高亮
 
-<p><mark>Hello, World!</mark></p>
+<p>我是<mark>高亮</mark>。</p>
 ``` html
-<p><mark>Hello, World!</mark></p>
+<p>我是<mark>高亮</mark>。</p>
 ```
 
 
