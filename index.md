@@ -12,6 +12,8 @@ bgd: true
 
 {% include card.html url="/server/" img="/server/index" title="服务器架设" %}
 
-{% include card.html url="/wfed/" img="/wfed/index" title="Web 前端开发" %}
+{% include card.html url="/html/" img="/html/index" title="HTML 网页结构" %}
+
+<!--CSS 展示效果,JS 功能行为-->
 
 </div>
