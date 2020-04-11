@@ -10,40 +10,72 @@ layout: default
 <p>Hello, World!</p>
 ```
 
+
+
 ## 粗体
 
-<b>Hello, World!</b>
-<strong>Hello, World!</strong>
+<p><b>Hello, World!</b></p>
+<p><strong>Hello, World!</strong></p>
 ``` html
-<b>Hello, World!</b>
-<strong>Hello, World!</strong>
+<p><b>Hello, World!</b>
+<p><strong>Hello, World!</strong></p>
 ```
+
+
 
 ## 斜体
 
-<i>Hello, World!</i>
-<em>Hello, World!</em>
+<p><i>Hello, World!</i></p>
+<p><em>Hello, World!</em></p>
 ``` html
-<i>Hello, World!</i>
-<em>Hello, World!</em>
+<p><i>Hello, World!</i></p>
+<p><em>Hello, World!</em></p>
 ```
+
 
 
 ## 删除线
 
-<del>Hello, World!</del>
-<ins>Hello, World!</ins>
+<p><del>Hello, World!</del></p>
 ``` html
-<del>Hello, World!</del>
-<ins>Hello, World!</ins>
+<p><del>Hello, World!</del></p>
 ```
 
 
-## 上下标
 
-<sub>Hello, World!</sub>
-<sup>Hello, World!</sup>
+## 下划线
+
+<p><ins>Hello, World!</ins></p>
 ``` html
-<sub>Hello, World!</sub>
-<sup>Hello, World!</sup>
+<p><ins>Hello, World!</ins></p>
+```
+
+
+
+## 小文字
+
+<p><small>Hello, World!</small></p>
+``` html
+<p><small>Hello, World!</small></p>
+```
+
+
+
+## 高亮
+
+<p><mark>Hello, World!</mark></p>
+``` html
+<p><mark>Hello, World!</mark></p>
+```
+
+
+
+## 上下标
+<p>Hello, World!</p>
+<p><sub>Hello, World!</sub></p>
+<p><sup>Hello, World!</sup></p>
+``` html
+<p>Hello, World!</p>
+<p><sub>Hello, World!</sub></p>
+<p><sup>Hello, World!</sup></p>
 ```
