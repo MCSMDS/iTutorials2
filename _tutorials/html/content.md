@@ -29,6 +29,13 @@ layout: default
 <h6>这是标题 6</h6>
 ```
 
+## 块级引用
+
+<blockquote>引用</blockquote>
+``` html
+<blockquote>引用</blockquote>
+```
+
 ## 有序列表
 
 <ol>
