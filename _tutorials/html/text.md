@@ -14,49 +14,49 @@ layout: default
 
 ## 粗体
 
-<p><b>我是粗体。</b></p>
-<p><strong>我是粗体，代表加重语气。</strong></p>
+<p>我是<b>粗体。</b></p>
+<p>我是<strong>粗体</strong>，还有语气<strong>重的意思</strong>。</p>
 ``` html
-<p><b>我是粗体。</b></p>
-<p><strong>我是粗体，代表加重语气。</strong></p>
+<p>我是<b>粗体。</b></p>
+<p>我是<strong>粗体</strong>，还有语气<strong>重的意思</strong>。</p>
 ```
 
 
 
 ## 斜体
 
-<p><i>我是斜体。</i></p>
-<p><em>我是斜体，代表着重。</em></p>
+<p>我是<i>斜体</i>。</p>
+<p>我是<em>斜体</em>，还有语气<em>重的意思</em>。</p>
 ``` html
-<p><i>我是斜体。</i></p>
-<p><em>我是斜体，代表着重。</em></p>
+<p>我是<i>斜体</i>。</p>
+<p>我是<em>斜体</em>，还有语气<em>重的意思</em>。</p>
 ```
 
 
 
 ## 删除字
 
-<p><del>我是删除字。</del></p>
+<p>我是<del>删除字</del>。</p>
 ``` html
-<p><del>我是删除字。</del></p>
+<p>我是<del>删除字</del>。</p>
 ```
 
 
 
 ## 插入字
 
-<p><ins>我是插入字。</ins></p>
+<p>我是<ins>插入字</ins>。</p>
 ``` html
-<p><ins>我是插入字。</ins></p>
+<p>我是<ins>插入字</ins>。</p>
 ```
 
 
 
 ## 小号字
 
-<p><small>我是小号字。</small></p>
+<p>我是<small>小号字</small>。</p>
 ``` html
-<p><small>我是小号字。</small></p>
+<p>我是<small>小号字</small>。</p>
 ```
 
 
@@ -71,7 +71,7 @@ layout: default
 
 
 ## 上下标
-<p>这是<sub>上</sub>中<sup>下</sup>。</p>
+<p>这是<sup>上</sup>中<sub>下</sub>。</p>
 ``` html
-<p>这是<sub>上</sub>中<sup>下</sup>。</p>
+<p>这是<sup>上</sup>中<sub>下</sub>。</p>
 ```
