@@ -8,7 +8,7 @@ bgd: true
 
 {% include card.html url="/html/base" img="/html/index" title="HTML 基础" %}
 
-{% include card.html url="/html/content" img="/html/index" title="内联文本语义" %}
+{% include card.html url="/html/content" img="/html/index" title="内容" %}
 
 {% include card.html url="/html/semantics" img="/html/index" title="内联文本语义" %}
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# 内联文本语义
+# 内容
 
 这些元素必须嵌套在```<p>```元素里。
 
@@ -16,31 +16,27 @@ layout: default
 ## 列表
 
 <ol>
-    <li>first item</li>
-    <li>second item</li>
-    <li>third item</li>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
 </ol>	
 ``` html
 <ol>
-    <li>first item</li>
-    <li>second item</li>
-    <li>third item</li>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
 </ol>	
 ```
 
 <ul>
-    <li>first item</li>
-    <li>second item</li>
-    <li>third item</li>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
 </ul>
 ``` html
 <ul>
-    <li>first item</li>
-    <li>second item</li>
-    <li>third item</li>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
 </ul>	
 ```
-
-
-
-
