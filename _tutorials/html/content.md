@@ -31,9 +31,9 @@ layout: default
 <p>我是段落。</p>
 ```
 
-
+``` html
 <!--以a 开头和结尾-->
-
+```
 
 
 
@@ -48,8 +48,9 @@ layout: default
 <img src="...">
 ```
 
-
+``` html
 <a href="https://freecodecamp.org">this links to freecodecamp.org</a>
+```
 
 ## 无序列表
 
@@ -82,6 +83,9 @@ layout: default
   <li>third item</li>
 </ol>	
 ```
+
+
+``` html
 <input type="text">
 
 <form action="/url-where-you-want-to-submit-form-data"></form>
@@ -90,10 +94,8 @@ layout: default
 
 <label for="indoor"> 
 
-
-
 </div>
-
+```
 
 
 
