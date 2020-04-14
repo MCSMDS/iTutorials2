@@ -12,6 +12,6 @@ bgd: true
 
 {% include card.html url="/server/domain" img="/server/index" title="域名绑定与解析" %}
 
-{% include card.html url="/server/cms" img="/server/index" title="內容管理系統" %}
+{% include card.html url="/server/more" img="/server/index" title="更多" %}
 
 </div>
